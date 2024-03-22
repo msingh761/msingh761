@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# Name: Manpreet Singh
+# Section: OPS445 NDD
 <!--
 **msingh761/msingh761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
